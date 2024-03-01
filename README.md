@@ -1,6 +1,6 @@
 # Memotion-2.0
 https://aiisc.ai/defactify/memotion_2.html
-https://competitions.codalab.org/competitions/35688
+https://competitions.codalab.org/competitions/35688 
 Paper available at https://ceur-ws.org/Vol-3199/paper20.pdf
 
 <h3>Overview</h3>

@@ -1,8 +1,6 @@
 # Memotion-2.0
 https://aiisc.ai/defactify/memotion_2.html
-https://competitions.codalab.org/competitions/35688 
-Paper available at https://ceur-ws.org/Vol-3199/paper20.pdf
-
+https://competitions.codalab.org/competitions/35688
 <h3>Overview</h3>
 <p>Memotion 2 is the 2nd iteration of the  <a href='http://www.amitavadas.com/Memotion.html'>Memotion task </a> which was conducted at Semeval 2020. The challenge consists of three subtasks:
 Sentiment (positive, negative, and neutral) analysis of memes

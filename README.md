@@ -1,4 +1,4 @@
-# Factify-2.0
+# Memotion-2.0
 https://aiisc.ai/defactify/memotion_2.html
 
 https://competitions.codalab.org/competitions/35688

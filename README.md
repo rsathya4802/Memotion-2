@@ -31,5 +31,22 @@ three subtasks</p>
 <div style="display: flex;"><img class="mySlides" src="https://aiisc.ai/defactify/img/fake_4.jpg" alt="" width="50%" /> <img class="mySlides" src="https://aiisc.ai/defactify/img/fake_5.jpg" alt="" width="50%" /></div>
 <div style="display: flex;"><img class="mySlides" src="https://aiisc.ai/defactify/img/fake_11.jpg" alt="" width="50%" /> <img class="mySlides" src="https://aiisc.ai/defactify/img/fake_14.jpg" alt="" width="25%" /> <img class=" mySlides" src="https://aiisc.ai/defactify/img/fake_9.jpg" alt="" width="25%" /></div> -->
 </div>
+<h3>Note</h3>
+We have provided the code for Task-A here, for Task-B and Task-C the same code works with just minor dataset adjustments and relabeling the dataset accordingly.
+Especially this part, 
+
+```
+sentiment_dict = {
+    'positive' : 2,
+    'neutral' : 1,
+    'negative' : 0
+}
+```
 <h3>Participation</h3>
 <p>Registered participants will be able to download the zipped dataset from the Participate &gt; Files tab. Please ensure you fill this form when registering for the shared task: <a href="https://docs.google.com/forms/d/e/1FAIpQLScZ7fUES5uJM-DKXYCzKpx-hAAFc04XqwFZ43eoZF2iB43NkA/viewform">Google Form</a>. We thank you for your participation and best of luck! For more information or in case of issues/queries please mail us at <a href="mailto:defactifyaaai@gmail.com">defactifyaaai@gmail.com</a></p>
+
+
+
+
+
+
